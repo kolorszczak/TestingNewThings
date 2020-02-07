@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestingNewThings</string>
+    <string name="error_no_internet">An error occurred while loading list. Please try later</string>
+    <string name="error_no_connection">An error occurred while loading list. Please try later</string>
+</resources>
